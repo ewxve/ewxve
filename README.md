@@ -4,7 +4,7 @@ I'm a software developer for the USAF, currently working on my BA in Computer Sc
 
 # 🎫 Current Project
 
-I'm developing a language testing software that can identify an English learner's figurative "fault line"- as in, if we rank every word in the english lexicon by the frequency at which that word appears in daily life, we can graph an English learner's propensity and where their English abilities start to waiver. I do this by combining mathematics and various research papers from the field of Cognitive Linguistics, then turning it into a Python program. You can check out the program in my pinned repository here on GitHub :)
+I'm developing a language testing software that can identify an English learner's figurative "fault line"- as in, if we rank every word in the English lexicon by the frequency at which that word appears in daily life, we can graph an English learner's propensity and where their English abilities start to waiver. I do this by combining mathematics and various research papers from the field of Cognitive Linguistics, then turning it into a Python program. You can check out the program in my pinned repository here on GitHub :)
 
 # 🌱 Currently Learning
 
