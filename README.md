@@ -8,11 +8,11 @@ I'm developing a language testing software that can identify an English learner'
 
 # 🌱 Currently Learning
 
-## 💬 Languages
+## 💬 Languages:
 ![Chinese flag](/UI-Flags-cn-China-3x2.svg)
 ![Brazilian flag](/UI-Flags-br-Brazil-3x2.svg)
 
-## 📜 Certifications
+## 📜 Certifications:
 - TEFL (Teaching English as a Foreign Language)
 - CompTIA Security+
 - CompTIA A+
